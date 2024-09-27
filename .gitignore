@@ -9,3 +9,4 @@ resources/oe/oeSocket.pro
 docker/.builder/**
 .scannerwork
 connectionPF.pf
+target/**
